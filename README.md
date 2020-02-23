@@ -11,7 +11,7 @@ Hoje sou capacitado na área de Ciência de Dados e Machine Learning.
 **Minhas credencias incluem:**
 
 * MBA em Tecnologia para Negócios - IA, Data Science and Big Data (PUC-RS)
-* Pós-graduação "Lato Sensu" em Sistemas de Informação (UFSCar - SP)
+* Pós-graduação *Lato Sensu* em Sistemas de Informação (UFSCar - SP)
 * Graduação em Tecnologia em Processamento de Dados (UNIMAR - SP)
 
 **Background in:** Python, Machine Learning, C#, Oracle Database, ASP.Net, ASP.Net Core
