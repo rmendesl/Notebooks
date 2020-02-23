@@ -2,7 +2,6 @@
   <img src="banner.png" >
 </p>
 
-![DataScience2](https://user-images.githubusercontent.com/12314311/75100788-e7cc1600-55a8-11ea-9858-b4460498d0a3.png)
 
 # DataScience Projects
 
@@ -13,7 +12,7 @@ Tenho uma larga experiência na área de Desenvolvimento de Sistemas. Com isso d
 
 Hoje sou capacitado na área de Ciência de Dados e Machine Learning. Minhas credencias incluem um MBA em Tecnologia para Negócios - IA, Data Sciente and BigData (PUC-RS), pós-graduação "Latu-Sensu" em Sistemas de Informação (UFSCar - SP), e graduação em Tecnologia em Processamento de Dados (UNIMAR - SP)
 
-**Background in:** Python, Machine Learning, C#, Oracle Database
+**Background in:** Python, Machine Learning, C#, Oracle Database, ASP.NET
 
 **Links:**
 * [LinkedIn](https://bit.ly/39Qh4ki)
