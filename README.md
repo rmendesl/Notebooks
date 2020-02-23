@@ -4,7 +4,7 @@
 
 # Rodrigo Lopes
 
-Tenho uma larga experiência na área de Desenvolvimento de Sistemas. Com isso desenvolvi habilidades analíticas, desenvolvimento de pensamento crítico e habilidade de resolver problemas, atenção aos detalhes, além da capacidade de trabalhar em ambientes colaborativos. 
+Tenho larga experiência na área de Desenvolvimento de Sistemas. Com isso desenvolvi habilidades analíticas, desenvolvimento de pensamento crítico e habilidade de resolver problemas, atenção aos detalhes, além da capacidade de trabalhar em ambientes colaborativos. 
 
 Hoje sou capacitado na área de Ciência de Dados e Machine Learning. Minhas credencias incluem um MBA em Tecnologia para Negócios - IA, Data Science and Big Data (PUC-RS), pós-graduação "Lato Sensu" em Sistemas de Informação (UFSCar - SP), e graduação em Tecnologia em Processamento de Dados (UNIMAR - SP)
 
