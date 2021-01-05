@@ -29,6 +29,6 @@ Hoje sou capacitado na área de Ciência de Dados e Machine Learning.
 2. Análise Exploratória dos Dados (EDA): https://bityli.com/6LKPt
 3. Criando o Modelo Supervisionado (PyCaret): https://bityli.com/wUHko
 4. Criando o Modelo Supervisionado (Scikit-learn): https://bityli.com/rDCIR
-5. Link de acesso ao Web-App (Streamlit): https://share.streamlit.io/rmendesl/tcc-web-app/app.py
+5. Link de acesso ao Web-App (Streamlit): https://bityli.com/KQfLm
 6. Artigo completo LinkedIn: https://bityli.com/CvF2q
 
