@@ -24,8 +24,8 @@ Hoje sou capacitado na área de Ciência de Dados e Machine Learning.
 * **Análise dos Dados do Airbnb - San Francisco:** https://bit.ly/2V9CZiq
 * **Análise Exploratória com Pandas Profiling:** https://bit.ly/2wzm6TT
 * **Projeto TCC - Renovação de Matrículas Acadêmicas:**
-* Coleta e Limpeza dos Dados: https://bityli.com/uScZg
-* Análise Exploratória dos Dados (EDA): https://bityli.com/6LKPt
+1. Coleta e Limpeza dos Dados: https://bityli.com/uScZg
+2. Análise Exploratória dos Dados (EDA): https://bityli.com/6LKPt
 * Criando o Modelo Supervisionado (PyCaret): https://bityli.com/wUHko
 * Criando o Modelo Supervisionado (Scikit-learn): https://bityli.com/rDCIR
 * Link de acesso ao Web-App (Streamlit): https://share.streamlit.io/rmendesl/tcc-web-app/app.py
